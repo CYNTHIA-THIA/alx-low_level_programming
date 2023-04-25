@@ -2,6 +2,7 @@
 /**
  * main - Entry point
  * Descriptio: 'print all possible combinations of single-digit'
+ * Return: ALways 0
  */
 int main(void)
 {
