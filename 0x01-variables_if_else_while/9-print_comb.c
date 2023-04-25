@@ -1,4 +1,4 @@
-#include <srdio.h>
+#include <stdio.h>
 /**
  * main - Entry point
  * Descriptio: 'print all possible combinations of single-digit'
