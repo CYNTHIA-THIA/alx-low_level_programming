@@ -16,7 +16,7 @@ int main(void)
 			continue;
 		}
 		putchar(',');
-		pitchar(' ');
+		putchar(' ');
 	}
 	putchar('\n');
 	return (0);
