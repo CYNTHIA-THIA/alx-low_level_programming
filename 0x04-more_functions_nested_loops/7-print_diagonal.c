@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  * print_diagonal - function that checks for uppercase character.
  * @n: the int for the paramaters of my function
@@ -15,9 +14,9 @@ void print_diagonal(int n)
 	{
 		for (j = 0; j < i;  j++)
 		{
-			_putchar(' ');
-		}
+			putchar(' '}
+		{
 		_putchar('\\');
-		_putchar('\\');
-	}
+		_putchar('\\')
+		{
 }
