@@ -6,8 +6,10 @@
 * Return: 0 on success
 */
 
-void positive_or_negative(int i)
+void positive_or_negative(int i);
 {
+	int(i = 0)
+
 if (i < 0)
 {
 printf("%d is %s\n", i, "negative");
