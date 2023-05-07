@@ -26,5 +26,4 @@ void time_table(void)
 			{
 				_putchar(',');
 				_putchar(' ');
-	return (0);
-}	
+	
